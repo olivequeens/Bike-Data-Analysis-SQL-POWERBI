@@ -29,7 +29,7 @@ The main objectives of the dashboard are:
 - Offer interactive and dynamic visuals for better analysis.
 
 
-## Key Insights ( for me to do)
+## Key Insights ( for me to do) look at data and see what you can discern
 
 
 
@@ -47,4 +47,12 @@ The main objectives of the dashboard are:
 
 
 
-Conclusion (      )
+
+
+
+
+
+
+
+
+## Conclusion (      )
