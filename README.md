@@ -1,4 +1,4 @@
-# Bike-Data-Analysis-SQL-POWERBI
+# SPOTIFY SQL-EXCEl-POWERBI
 
 Spotify Analysis Dashboard
 Introduction
